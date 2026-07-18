@@ -15,7 +15,7 @@ The site draws on adire dyeing traditions, built around a palatte of deep indigo
 - JavaScript
 ## Running Locally
 1. Clone the repo
-https://github.com/romosel-lab/aso-website.git
+https://github.com/romosel-lab/my-first-website-ASO
 2. Open `ASO.html` in your browser 
 ## Live Site
 
